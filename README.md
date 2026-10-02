@@ -41,3 +41,9 @@ javac RekeningBank.java MainBank.java
 
 # 2. Jalankan program utama
 java MainBank
+
+---
+##  Screenshot hasil Running 
+![Screenshot 1](1.png)
+![Screenshot 1](2.png)
+![Screenshot 1](3.png)
