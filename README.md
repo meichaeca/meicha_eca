@@ -33,7 +33,7 @@ Program simulasi sederhana menggunakan bahasa pemrograman **Java** yang menerapk
 
 ## 🚀 Cara Menjalankan Program
 
- Buka Terminal atau PowerShell di folder proyek, lalu jalankan perintah berikut secara berurutan:
+Buka Terminal atau PowerShell di folder proyek, lalu jalankan perintah berikut secara berurutan:
 
 ```bash
 # 1. Kompilasi kedua file Java
@@ -41,15 +41,3 @@ javac RekeningBank.java MainBank.java
 
 # 2. Jalankan program utama
 java MainBank
-
-## 📸 Screenshot Hasil Running
-
-![Hasil Running Program](1.png)
-
-## 📸 Screenshot Hasil Running
-
-![Hasil Running Program](2.png)
-
-## 📸 Screenshot Hasil Running
-
-![Hasil Running Program](3.png)
