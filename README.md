@@ -2,6 +2,16 @@
 
 Program simulasi sederhana menggunakan bahasa pemrograman **Java** yang menerapkan konsep dasar Object-Oriented Programming (OOP) yaitu **Enkapsulasi** dan **Static Keyword**.
 
+## 📸 Tampilan Hasil Running (Screenshot)
+
+### 1. Hasil Running Program Utama
+![Hasil Running 1](1.png)
+
+### 2. Skenario Validasi & Percobaan Transfer
+![Hasil Running 2](2.png)
+
+### 3. Saldo Akhir & Total Rekening Terdaftar
+![Hasil Running 3](3.png)
 ---
 
 ## 🛠️ Fitur Utama & Validasi
@@ -41,9 +51,3 @@ javac RekeningBank.java MainBank.java
 
 # 2. Jalankan program utama
 java MainBank
-
----
-##  Screenshot hasil Running 
-![Screenshot 1](1.png)
-![Screenshot 1](2.png)
-![Screenshot 1](3.png)
